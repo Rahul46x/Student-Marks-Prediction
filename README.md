@@ -36,16 +36,3 @@ The project uses a **Random Forest Regression** model integrated with a **Flask*
 - Pandas
 
 ---
-
-# 📂 Project Structure
-
-Student-Marks-Prediction-main/
-│
-├── app.py
-├── train_model.py
-├── student_info.csv
-├── smp_data_from_app.csv
-├── Students_mark_predictor_model.pkl
-│
-└── templates/
-    └── index.html
